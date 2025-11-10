@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 553571b9fa11f9246ad878bfd006aecf, type: 3}
+  m_Name: "\u7A7A"
+  m_EditorClassIdentifier: 
+  cardName: "\u7A7A"
+  themeColor: {r: 1, g: 1, b: 1, a: 1}
+  hasBerserk: 0
+  explodeRadius: 5
+  explodeDelay: 2
+  canStealHP: 0
+  lockHPTime: 3
+  hasSlowAura: 0
+  auraRadius: 4
+  slowFactor: 0.5
